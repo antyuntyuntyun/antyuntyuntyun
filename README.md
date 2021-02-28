@@ -33,12 +33,15 @@ Here are some ideas to get you started:
     <img height="20" src="https://zenn-badge.ganariya.vercel.app/antyuntyun/articles" />
   </a>
   <a href="http://qiita.com/antyuntyuntyun">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/posts.svg" />
-  </a>
-  <//qiita.com/antyuntyuntyun">
     <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/contributions.svg" />
   </a>
+  <a>
+  <a href="http://qiita.com/antyuntyuntyun">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/followers.svg" />
   </a>
+  <a href="http://qiita.com/antyuntyuntyun">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/posts.svg" />
+  </a>  
   <a href="https://www.youracclaim.com/badges/955d66c9-063b-4ef5-a89c-0e0e67c0112d/public_url">
     <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat" />
   </a>
