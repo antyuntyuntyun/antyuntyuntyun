@@ -1,4 +1,4 @@
-## ithere 👋 I'm antyuntyun(tyun)
+## Hi there 👋 I'm antyuntyun(tyun)
 
 <!--
 **antyuntyuntyun/antyuntyuntyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,9 +43,71 @@ Here are some ideas to get you started:
 - :cat: I love cat. I live with cat.
 - 💻 Recently started as a front-end engineering at work (**Vue.js**)
 - :muscle: struggling with competitive programming (**C++**)
-- :: My main job is as a data scientist / consultant.(**python, R**)
+- :man: My main job is data scientist / consultant.(**python, R**)
+## Language and Tools
 
-## :octocat: My Github stats:
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+   <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+<!--   <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a> -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+<!--   <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a> -->
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon web service" width="40" height="40"/>
+  </a>
+  <a href="https://www.ibm.com/jp-ja/products/spss-modeler" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" alt="spss" width="40" height="40"/>
+  </a>
+  <a href="https://www.sas.com/ja_jp/home.html" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/sas-6.svg" alt="sas" width="40" height="40"/>
+  </a>
+  <a href="https://www.alteryx.com/" target="_blank">
+    <img src="" alt="alteryx" width="80" height="30"/>
+  </a>
+
+
+## :octocat: My Github stats
+
 <p>
   <a href="https://github.com/antyuntyuntyun/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=antyuntyuntyun&count_private=true&show_icons=true" />
@@ -54,3 +116,5 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antyuntyuntyun" />
   </a>
 </p>
+
+## 
