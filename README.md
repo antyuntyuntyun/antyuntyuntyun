@@ -44,6 +44,12 @@ Here are some ideas to get you started:
 - 💻 Recently started as a front-end engineering at work (**Vue.js**)
 - :muscle: struggling with competitive programming (**C++**)
 - :man: My main job is data scientist / consultant.(**python, R**)
+
+## :hatched_chick: Let's get connected
+
+[![Linkedin Badge](https://img.shields.io/badge/-@yuta.yasumura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuta-yasumura-55b1301b9/)](https://www.linkedin.com/in/yuta-yasumura-55b1301b9/)
+[![Facebook Badge](https://img.shields.io/badge/-@yuta.yasumura-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/yuta.yasumura)](https://www.facebook.com/yuta.yasumura)
+
 ## :eyes: Language and Tools
 
 <p align="left">
@@ -107,7 +113,7 @@ Here are some ideas to get you started:
   <a href="https://www.alteryx.com/" target="_blank">
     <img src="https://iconape.com/wp-content/files/jq/351784/svg/351784.svg" alt="alteryx" width="80" height="40"/>
   </a>
-
+</p>
 
 ## :octocat: My Github stats
 
@@ -119,8 +125,3 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antyuntyuntyun" />
   </a>
 </p>
-
-## Let's get connected
-
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuta-yasumura-55b1301b9/)](https://www.linkedin.com/in/yuta-yasumura-55b1301b9/)
-[![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/yuta.yasumura)](https://www.facebook.com/yuta.yasumura)
