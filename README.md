@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 ## :octocat: My Github stats
 
-<p>
+<p align="left">
   <a href="https://github.com/antyuntyuntyun/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=antyuntyuntyun&count_private=true&show_icons=true" />
   </a>
