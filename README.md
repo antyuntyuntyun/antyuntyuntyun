@@ -42,10 +42,11 @@ Here are some ideas to get you started:
 
 - :cat: I love cat. I live with cat.
 - 💻 Recently started as a front-end engineering at work (**Vue.js**)
+- 🌱 I’m currently learning **Vue.js Nuxt.js**
 - :muscle: struggling with competitive programming (**C++**)
 - :man: My main job is data scientist / consultant.(**python, R**)
 
-## :hatched_chick: Let's get connected
+## :hatched_chick: How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-@yuta.yasumura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuta-yasumura-55b1301b9/)](https://www.linkedin.com/in/yuta-yasumura-55b1301b9/)
 [![Facebook Badge](https://img.shields.io/badge/-@yuta.yasumura-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/yuta.yasumura)](https://www.facebook.com/yuta.yasumura)
