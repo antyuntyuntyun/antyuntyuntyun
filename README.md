@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Vue.js Nuxt.js**
 - :muscle: struggling with competitive programming (**C++**)
 - :man: My main job is data scientist / consultant.(**python, R**)
+- 🤔 I’m looking for help with SPSS modeling
 
 ## :hatched_chick: How to reach me
 
