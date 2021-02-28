@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 💻 Recently started as a front-end engineering at work (**Vue.js**)
 - :muscle: struggling with competitive programming (**C++**)
 - :man: My main job is data scientist / consultant.(**python, R**)
-## Language and Tools
+## :eyes: Language and Tools
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
@@ -92,6 +92,9 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
+  </a>  
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon web service" width="40" height="40"/>
   </a>
@@ -102,7 +105,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/sas-6.svg" alt="sas" width="40" height="40"/>
   </a>
   <a href="https://www.alteryx.com/" target="_blank">
-    <img src="" alt="alteryx" width="80" height="30"/>
+    <img src="https://iconape.com/wp-content/files/jq/351784/svg/351784.svg" alt="alteryx" width="80" height="40"/>
   </a>
 
 
@@ -117,4 +120,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 
+## Let's get connected
+
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuta-yasumura-55b1301b9/)](https://www.linkedin.com/in/yuta-yasumura-55b1301b9/)
+[![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/yuta.yasumura)](https://www.facebook.com/yuta.yasumura)
