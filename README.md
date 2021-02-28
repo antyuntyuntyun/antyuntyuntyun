@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 - :cat: I love cat. I live with cat.
-- 💻 Recently started as a front-end engineering at work (**Vue.js**)
+- 💻 Recently start front-end engineering at work (**Vue.js**)
 - 🌱 I’m currently learning **Vue.js Nuxt.js**
 - :muscle: struggling with competitive programming (**C++**)
 - :man: My main job is data scientist / consultant.(**python, R**)
