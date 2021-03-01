@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <a href="https://github.com/antyuntyuntyun/antyuntyuntyun/">
-    <img src="https://komarev.com/ghpvc/?username=antyuntyuntyun" alt="antyuntyuntyun" />
+    <img src="https://komarev.com/ghpvc/?username=antyuntyuntyun&color=orange&style=flat" alt="antyuntyuntyun" />
   </a>
   <a href="https://github.com/antyuntyuntyun">
     <img height="20" src="https://img.shields.io/github/followers/antyuntyuntyun?label=follow&logo=github&style=flat" />
