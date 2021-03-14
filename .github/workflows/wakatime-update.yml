@@ -33,5 +33,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
-          # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Stats Update :alien:"
+          LOCALE: "ja_JP"
