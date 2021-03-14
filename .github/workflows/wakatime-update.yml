@@ -9,8 +9,9 @@ on:
     # At 10:00.(JST) → At 01:00.(UTC)
     - cron:  '0 1 * * *'
   workflow_dispatch:
-    name:
-      description: 'Automated Coding Activity Update :alien:'
+    inputs:
+      name:
+        description: 'Automated Coding Activity Update :alien:'
 
 jobs:
   update-readme:
