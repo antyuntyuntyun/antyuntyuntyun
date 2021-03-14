@@ -131,7 +131,7 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antyuntyuntyun&layout=compact&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
-## Wakatime
+## 👽 Wakatime
 
 <img src="https://github.com/antyuntyuntyun/antyuntyuntyun/blob/master/images/stat.svg" alt="Alternative Text"/>
 <!--
