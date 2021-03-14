@@ -10,8 +10,7 @@ on:
     - cron:  '0 1 * * *'
   workflow_dispatch:
     home:
-      name:
-        description: 'Automated Coding Activity Update'
+      description: 'Automated Coding Activity Update'
 
 jobs:
   update-readme:
