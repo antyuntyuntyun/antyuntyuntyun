@@ -35,4 +35,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
-          LOCALE: "ja_JP"
+          LOCALE: "en_US"
