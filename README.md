@@ -133,6 +133,8 @@ Here are some ideas to get you started:
 
 ## 👽 Wakatime
 
+[![WakaTime status update](https://github.com/antyuntyuntyun/antyuntyuntyun/actions/workflows/wakatime-update.yml/badge.svg)](https://github.com/antyuntyuntyun/antyuntyuntyun/actions/workflows/wakatime-update.yml)
+
 <img src="https://github.com/antyuntyuntyun/antyuntyuntyun/blob/main/images/stat.svg" alt="Alternative Text"/>
 <!--
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
