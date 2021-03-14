@@ -5,8 +5,10 @@ on:
     branches: [ main ]
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '1 0 * * *'
-
+    # - cron: '1 0 * * *'
+    # At 10:00.(JST) → At 01:00.(UTC)
+    - cron:  '0 1 * * *'
+    
 jobs:
   update-readme:
     name: Update the WakaTime Stat
@@ -25,3 +27,11 @@ jobs:
           BRANCH: "main"
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          SHOW_PROJECTS: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_LOC_CHART: false
