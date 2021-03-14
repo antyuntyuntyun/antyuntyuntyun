@@ -127,11 +127,13 @@ Here are some ideas to get you started:
 ## :octocat: My Github stats
 
 <p align="left"> 
-    <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=antyuntyuntyun&count_private=true&show_icons=true&show_icons=true" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antyuntyuntyun&layout=compact&count_private=true&show_icons=true&show_icons=true" />
+    <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=antyuntyuntyun&count_private=true&show_icons=true&show_icons=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antyuntyuntyun&layout=compact&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
 ## Wakatime
 
 <img src="https://github.com/antyuntyuntyun/antyuntyuntyun/blob/antyuntyuntyun/images/stat.svg" alt="Alternative Text"/>
+<!--
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+-->
