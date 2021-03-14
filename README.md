@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 
 ## Wakatime
 
-<img src="https://github.com/antyuntyuntyun/antyuntyuntyun/blob/antyuntyuntyun/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/antyuntyuntyun/antyuntyuntyun/blob/master/images/stat.svg" alt="Alternative Text"/>
 <!--
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 -->
