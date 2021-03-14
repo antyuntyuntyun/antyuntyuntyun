@@ -134,3 +134,8 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antyuntyuntyun" />
   </a>
 </p>
+
+## Wakatime
+
+<img src="https://github.com/antyuntyuntyun/antyuntyuntyun/blob/antyuntyuntyun/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
