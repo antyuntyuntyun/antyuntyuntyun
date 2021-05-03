@@ -10,8 +10,6 @@ on:
     # 0 1 * * *でよいはずだがずれるので更に50分前に設定
     - cron:  '10 0 * * *'
   workflow_dispatch:
-    home:
-      description: 'Automated Coding Activity Update'
 
 jobs:
   update-readme:
