@@ -37,27 +37,27 @@ Here are some ideas to get you started:
 <!--   こちらに移行 https://github.com/nikaera/zenn-badge-->
   <!-- Like のバッジ -->
   <a href="https://zenn.dev/antyuntyun">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/likes?style=plastic" alt="antyuntyun likes" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/likes?style=flat" alt="antyuntyun likes" />
   </a>
 
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/antyuntyun/articles">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/articles?style=plastic" alt="antyuntyun articles" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/articles?style=flat" alt="antyuntyun articles" />
   </a>
 
   <!-- Followers のバッジ -->
   <a href="https://zenn.dev/antyuntyun/followers">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/followers?style=plastic" alt="antyuntyun followers" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/followers?style=flat" alt="antyuntyun followers" />
   </a>
 
   <!-- Books のバッジ -->
   <a href="https://zenn.dev/antyuntyun/books">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/books?style=plastic" alt="antyuntyun books" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/books?style=flat" alt="antyuntyun books" />
   </a>
 
   <!-- Scraps のバッジ -->
   <a href="https://zenn.dev/antyuntyun/scraps">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/scraps?style=plastic" alt="antyuntyun scraps" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/scraps?style=flat" alt="antyuntyun scraps" />
   </a>
   <a href="http://qiita.com/antyuntyuntyun">
     <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/contributions.svg" />
