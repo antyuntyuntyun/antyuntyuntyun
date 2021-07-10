@@ -24,20 +24,21 @@ Here are some ideas to get you started:
   <a href="https://github.com/antyuntyuntyun">
     <img height="20" src="https://img.shields.io/github/followers/antyuntyuntyun?label=follow&logo=github&style=flat" />
   </a>
-<!--   <a href="https://zenn.dev/antyuntyun">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/antyuntyun/liked" />
-  </a>
-  <a href="https://zenn.dev/antyuntyun">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/antyuntyun/followers" />
-  </a>
-  <a href="https://zenn.dev/antyuntyun">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/antyuntyun/articles" />
-  </a> -->
-<!--   2021/5/17 のapi仕様変更により、こちら卒業　https://github.com/Ganariya/zenn-badge -->
-<!--   こちらに移行 https://github.com/nikaera/zenn-badge-->
+  <!--  zenn  -->
+  <!--   <a href="https://zenn.dev/antyuntyun">
+      <img height="20" src="https://zenn-badge.ganariya.vercel.app/antyuntyun/liked" />
+    </a>
+    <a href="https://zenn.dev/antyuntyun">
+      <img height="20" src="https://zenn-badge.ganariya.vercel.app/antyuntyun/followers" />
+    </a>
+    <a href="https://zenn.dev/antyuntyun">
+      <img height="20" src="https://zenn-badge.ganariya.vercel.app/antyuntyun/articles" />
+    </a> -->
+  <!--   2021/5/17 のapi仕様変更により、こちら卒業　https://github.com/Ganariya/zenn-badge -->
+  <!--   こちらに移行 https://github.com/nikaera/zenn-badge-->
   <!-- Like のバッジ -->
   <a href="https://zenn.dev/antyuntyun">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/likes?style=flat" alt="antyuntyun likes" />
+    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/likes?style=flat" alt="antyuntyun likes" />
   </a>
 
   <!-- Articles のバッジ -->
@@ -59,6 +60,12 @@ Here are some ideas to get you started:
   <a href="https://zenn.dev/antyuntyun/scraps">
     <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/scraps?style=flat" alt="antyuntyun scraps" />
   </a>
+  <!--  zenn  -->
+  
+  <!--  Qiita  -->
+  <a href="https://www.youracclaim.com/badges/955d66c9-063b-4ef5-a89c-0e0e67c0112d/public_url">
+    <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS%20SAA-232F3E.svg?logo=amazon-aws&style=flat" />
+  </a>
   <a href="http://qiita.com/antyuntyuntyun">
     <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/contributions.svg" />
   </a>
@@ -68,9 +75,7 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/antyuntyuntyun">
     <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/posts.svg" />
   </a>  
-  <a href="https://www.youracclaim.com/badges/955d66c9-063b-4ef5-a89c-0e0e67c0112d/public_url">
-    <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS%20SAA-232F3E.svg?logo=amazon-aws&style=flat" />
-  </a>
+  <!--  Qiita  -->
 </p>
 
 - :cat: I love cat. I live with cat.
