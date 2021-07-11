@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </a>
 
   <!-- Followers のバッジ -->
-  <a href="https://zenn.dev/antyuntyun/followers">
+  <a href="https://zenn.dev/antyuntyun/">
     <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/followers?style=flat" alt="antyuntyun followers" />
   </a>
 
