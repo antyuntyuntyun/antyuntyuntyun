@@ -63,9 +63,6 @@ Here are some ideas to get you started:
   <!--  zenn  -->
   
   <!--  Qiita  -->
-  <a href="https://www.youracclaim.com/badges/955d66c9-063b-4ef5-a89c-0e0e67c0112d/public_url">
-    <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS%20SAA-232F3E.svg?logo=amazon-aws&style=flat" />
-  </a>
   <a href="http://qiita.com/antyuntyuntyun">
     <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/contributions.svg" />
   </a>
@@ -76,6 +73,15 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/posts.svg" />
   </a>  
   <!--  Qiita  -->
+  
+  <!--  Certificates  -->
+  <a href="https://www.youracclaim.com/badges/955d66c9-063b-4ef5-a89c-0e0e67c0112d/public_url">
+    <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS%20SAA-232F3E.svg?logo=amazon-aws&style=flat" />
+  </a>
+  <a href="https://www.credly.com/badges/dc6547ca-a431-4aba-9e71-7d7d96905bb0/public_url">
+    <img height="20" src="https://img.shields.io/badge/-Microsoft%20MCP%20DP--100-232F3E.svg?logo=microsoftazure&style=flat" />
+  </a>
+  <!--  Certificates  -->
 </p>
 
 - :cat: I love cat. I live with cat.
