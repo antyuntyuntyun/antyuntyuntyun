@@ -38,12 +38,12 @@ Here are some ideas to get you started:
   <!--   こちらに移行 https://github.com/nikaera/zenn-badge-->
   <!-- Like のバッジ -->
   <a href="https://zenn.dev/antyuntyun">
-    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/likes?style=flat" alt="antyuntyun likes" />
+    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/likes?style=plastic" alt="antyuntyun likes" />
   </a>
 
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/antyuntyun/articles">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/articles?style=flat" alt="antyuntyun articles" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/articles?style=plastic" alt="antyuntyun articles" />
   </a>
 
   <!-- Followers のバッジ -->
