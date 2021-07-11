@@ -81,6 +81,9 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/dc6547ca-a431-4aba-9e71-7d7d96905bb0/public_url">
     <img height="20" src="https://img.shields.io/badge/-Microsoft%20MCP%20DP--100-232F3E.svg?logo=microsoftazure&style=flat" />
   </a>
+  <a href="https://www.credly.com/badges/225ffc55-cf2f-47e7-a470-64dc843e0112/public_url">
+    <img height="20" src="https://img.shields.io/badge/-Microsoft%20MCP%20AI--900-232F3E.svg?logo=microsoftazure&style=flat" />
+  </a>
   <!--  Certificates  -->
 </p>
 
