@@ -1,6 +1,6 @@
 - urls:
-    - https://zenn.dev/antyuntyun/feed
     - https://qiita.com/antyuntyuntyun/feed
+    - https://zenn.dev/antyuntyun/feed
   template: |-
     {{range . -}}
       * {{ if eq .Header.FeedLink "https://zenn.dev/antyuntyun/feed" -}}
