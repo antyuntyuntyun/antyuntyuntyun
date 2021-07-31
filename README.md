@@ -171,6 +171,11 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antyuntyuntyun&layout=compact&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
+## Tech blog :hammer:
+
+<!--[START github.com/ikawaha/feedsnippet]-->
+<!--[END github.com/ikawaha/feedsnippet]-->
+
 ## 👽 Wakatime
 
 [![WakaTime status update](https://github.com/antyuntyuntyun/antyuntyuntyun/actions/workflows/wakatime-update.yml/badge.svg)](https://github.com/antyuntyuntyun/antyuntyuntyun/actions/workflows/wakatime-update.yml)
