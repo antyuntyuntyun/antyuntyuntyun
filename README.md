@@ -173,8 +173,10 @@ Here are some ideas to get you started:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]-->
-
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-07-31T01:30:41Z]-->
+* ![](./icon/zenn.png) [WindowsTerminalにGoogleCloudShellを導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
+* ![](./icon/zenn.png) [シェル起動時のpyenvのWarning解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
+* ![](./icon/qiita.png) [Qiita記事管理CLI(qiita-cli)をTypeScriptでつくってみた](https://qiita.com/antyuntyuntyun/items/278579fd60ecd85f6e4c)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## 👽 Wakatime
