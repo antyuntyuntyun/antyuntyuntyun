@@ -1,8 +1,8 @@
 name: Update Tech blog feed snippet
 
 on:
-  push:
-    branches: [main, master]
+  # push:
+  #   branches: [main, master]
   schedule:
     - cron: "5 0 * * *"
   workflow_dispatch:
