@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # Validate arguments
 if [ $# -lt 1 ]; then
