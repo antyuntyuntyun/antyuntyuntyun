@@ -13,5 +13,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Run sh
-        run: sh tools/refresh_img_cache.sh antyuntyuntyun/antyuntyuntyun
+      - name: Run bash script
+        run: bash tools/refresh_img_cache.sh antyuntyuntyun/antyuntyuntyun
