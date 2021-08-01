@@ -43,46 +43,46 @@ Here are some ideas to get you started:
 
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/antyuntyun/articles">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/articles?style=flat" alt="antyuntyun articles" />
+    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/articles?style=flat" alt="antyuntyun articles" height="20" />
   </a>
 
   <!-- Followers のバッジ -->
   <a href="https://zenn.dev/antyuntyun/">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/followers?style=flat" alt="antyuntyun followers" />
+    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/followers?style=flat" alt="antyuntyun followers" height="20"/>
   </a>
 
   <!-- Books のバッジ -->
   <a href="https://zenn.dev/antyuntyun/books">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/books?style=flat" alt="antyuntyun books" />
+    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/books?style=flat" alt="antyuntyun books" height="20"/>
   </a>
 
   <!-- Scraps のバッジ -->
   <a href="https://zenn.dev/antyuntyun/scraps">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/antyuntyun/scraps?style=flat" alt="antyuntyun scraps" />
+    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/scraps?style=flat" alt="antyuntyun scraps" height="20" />
   </a>
   <!--  zenn  -->
   
   <!--  Qiita  -->
   <a href="http://qiita.com/antyuntyuntyun">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/contributions.svg" />
+    <img src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/contributions.svg"  height="20"/>
   </a>
   <a href="http://qiita.com/antyuntyuntyun">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/followers.svg" />
+    <img src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/followers.svg" height="20" />
   </a>
   <a href="http://qiita.com/antyuntyuntyun">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/posts.svg" />
+    <img src="https://qiita-badge.apiapi.app/s/antyuntyuntyun/posts.svg"  height="20" />
   </a>  
   <!--  Qiita  -->
   
   <!--  Certificates  -->
   <a href="https://www.youracclaim.com/badges/955d66c9-063b-4ef5-a89c-0e0e67c0112d/public_url">
-    <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS%20SAA-232F3E.svg?logo=amazon-aws&style=flat" />
+    <img src="https://img.shields.io/badge/-Amazon%20AWS%20SAA-232F3E.svg?logo=amazon-aws&style=flat" height="20" />
   </a>
   <a href="https://www.credly.com/badges/dc6547ca-a431-4aba-9e71-7d7d96905bb0/public_url">
-    <img height="20" src="https://img.shields.io/badge/-Microsoft%20MCP%20DP--100-232F3E.svg?logo=microsoftazure&style=flat" />
+    <img  src="https://img.shields.io/badge/-Microsoft%20MCP%20DP--100-232F3E.svg?logo=microsoftazure&style=flat" height="20"/>
   </a>
   <a href="https://www.credly.com/badges/225ffc55-cf2f-47e7-a470-64dc843e0112/public_url">
-    <img height="20" src="https://img.shields.io/badge/-Microsoft%20MCP%20AI--900-232F3E.svg?logo=microsoftazure&style=flat" />
+    <img src="https://img.shields.io/badge/-Microsoft%20MCP%20AI--900-232F3E.svg?logo=microsoftazure&style=flat" height="20" />
   </a>
   <!--  Certificates  -->
 </p>
@@ -174,9 +174,10 @@ Here are some ideas to get you started:
 ## Tech blog :hammer:
 
 <!--[START github.com/ikawaha/feedsnippet]--><!--[2021-07-31T01:30:41Z]-->
-* ![](./icon/zenn.png) [WindowsTerminalにGoogleCloudShellを導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
-* ![](./icon/zenn.png) [シェル起動時のpyenvのWarning解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
-* ![](./icon/qiita.png) [Qiita記事管理CLI(qiita-cli)をTypeScriptでつくってみた](https://qiita.com/antyuntyuntyun/items/278579fd60ecd85f6e4c)
+
+- ![](./icon/zenn.png) [WindowsTerminal に GoogleCloudShell を導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
+- ![](./icon/zenn.png) [シェル起動時の pyenv の Warning 解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
+- ![](./icon/qiita.png) [Qiita 記事管理 CLI(qiita-cli)を TypeScript でつくってみた](https://qiita.com/antyuntyuntyun/items/278579fd60ecd85f6e4c)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## 👽 Wakatime
