@@ -4,7 +4,7 @@ on:
   push:
     branches: [main, master]
   schedule:
-    - cron: "10 0 * * *"
+    - cron: "10 0 * * 1"
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run sh
-        run: sh tools/refresh_img_cache.sh
+        run: sh tools/refresh_img_cache.sh antyuntyuntyun/antyuntyuntyun
