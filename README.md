@@ -84,6 +84,9 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/225ffc55-cf2f-47e7-a470-64dc843e0112/public_url">
     <img src="https://img.shields.io/badge/-Microsoft%20MCP%20AI--900-232F3E.svg?logo=microsoftazure&style=flat" height="20" />
   </a>
+  <a href="https://www.credly.com/badges/96dc09ab-5906-4288-9f4a-00eeb930dc32/public_url">
+    <img src="https://img.shields.io/badge/-Microsoft%20MCP%20AZ--900-232F3E.svg?logo=microsoftazure&style=flat" height="20" />
+  </a>
   <!--  Certificates  -->
 </p>
 
@@ -174,9 +177,10 @@ Here are some ideas to get you started:
 ## Tech blog :hammer:
 
 <!--[START github.com/ikawaha/feedsnippet]--><!--[2021-08-01T04:15:11Z]-->
-* ![](./icon/zenn.png) [WindowsTerminalにGoogleCloudShellを導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
-* ![](./icon/zenn.png) [シェル起動時のpyenvのWarning解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
-* ![](./icon/qiita.png) [Qiita記事管理CLI(qiita-cli)をTypeScriptでつくってみた](https://qiita.com/antyuntyuntyun/items/278579fd60ecd85f6e4c)
+
+- ![](./icon/zenn.png) [WindowsTerminal に GoogleCloudShell を導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
+- ![](./icon/zenn.png) [シェル起動時の pyenv の Warning 解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
+- ![](./icon/qiita.png) [Qiita 記事管理 CLI(qiita-cli)を TypeScript でつくってみた](https://qiita.com/antyuntyuntyun/items/278579fd60ecd85f6e4c)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## 👽 Wakatime
