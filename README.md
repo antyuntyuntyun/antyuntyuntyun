@@ -176,7 +176,8 @@ Here are some ideas to get you started:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-08-31T01:06:41Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-09-07T01:04:45Z]-->
+* ![](./icon/zenn.png) [LamdaでAWSコストをTeamsに通知](https://zenn.dev/antyuntyun/articles/aws_cost_notification_to_teams_by_lambda)
 * ![](./icon/zenn.png) [WindowsTerminalにGoogleCloudShellを導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
 * ![](./icon/zenn.png) [シェル起動時のpyenvのWarning解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
 * ![](./icon/qiita.png) [Qiita記事管理CLI(qiita-cli)をTypeScriptでつくってみた](https://qiita.com/antyuntyuntyun/items/278579fd60ecd85f6e4c)
