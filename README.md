@@ -176,7 +176,8 @@ Here are some ideas to get you started:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-09-07T01:04:45Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-09-12T01:10:10Z]-->
+* ![](./icon/zenn.png) [pythonからGoogleDriveAPIを叩く](https://zenn.dev/antyuntyun/articles/python_google_drive)
 * ![](./icon/zenn.png) [LamdaでAWSコストをTeamsに通知](https://zenn.dev/antyuntyun/articles/aws_cost_notification_to_teams_by_lambda)
 * ![](./icon/zenn.png) [WindowsTerminalにGoogleCloudShellを導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
 * ![](./icon/zenn.png) [シェル起動時のpyenvのWarning解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
