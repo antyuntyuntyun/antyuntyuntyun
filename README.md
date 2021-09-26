@@ -183,13 +183,13 @@ Here are some ideas to get you started:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-09-12T01:10:10Z]-->
-
-- ![](./icon/zenn.png) [python から GoogleDriveAPI を叩く](https://zenn.dev/antyuntyun/articles/python_google_drive)
-- ![](./icon/zenn.png) [Lamda で AWS コストを Teams に通知](https://zenn.dev/antyuntyun/articles/aws_cost_notification_to_teams_by_lambda)
-- ![](./icon/zenn.png) [WindowsTerminal に GoogleCloudShell を導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
-- ![](./icon/zenn.png) [シェル起動時の pyenv の Warning 解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
-- ![](./icon/qiita.png) [Qiita 記事管理 CLI(qiita-cli)を TypeScript でつくってみた](https://qiita.com/antyuntyuntyun/items/278579fd60ecd85f6e4c)
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-09-26T01:10:48Z]-->
+* ![](./icon/zenn.png) [AirflowのDAG処理通知をTeamsに通知してみた](https://zenn.dev/antyuntyun/articles/airflow_custom_notification)
+* ![](./icon/qiita.png) [fzfを用いてAWS CLIプロファイル簡単切り替え](https://qiita.com/antyuntyuntyun/items/5976ef838ec160f6b027)
+* ![](./icon/zenn.png) [pythonからGoogleDriveAPIを叩く](https://zenn.dev/antyuntyun/articles/python_google_drive)
+* ![](./icon/zenn.png) [LamdaでAWSコストをTeamsに通知](https://zenn.dev/antyuntyun/articles/aws_cost_notification_to_teams_by_lambda)
+* ![](./icon/zenn.png) [WindowsTerminalにGoogleCloudShellを導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
+* ![](./icon/zenn.png) [シェル起動時のpyenvのWarning解決](https://zenn.dev/antyuntyun/articles/pyenv_warning_resolve)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## 👽 Wakatime
