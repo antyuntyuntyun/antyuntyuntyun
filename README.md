@@ -183,7 +183,8 @@ Here are some ideas to get you started:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-10-04T01:15:29Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-11-04T01:08:49Z]-->
+* ![](./icon/zenn.png) [CodeCommitの通知をLambdaでTeamsに飛ばしてみた](https://zenn.dev/antyuntyun/articles/codecommit_notification)
 * ![](./icon/zenn.png) [fzfを用いてssh先を簡単指定](https://zenn.dev/antyuntyun/articles/ssh-fzf-function)
 * ![](./icon/zenn.png) [AirflowのDAG処理通知をTeamsに通知してみた](https://zenn.dev/antyuntyun/articles/airflow_custom_notification)
 * ![](./icon/qiita.png) [fzfを用いてAWS CLIプロファイル簡単切り替え](https://qiita.com/antyuntyuntyun/items/5976ef838ec160f6b027)
