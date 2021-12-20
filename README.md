@@ -183,7 +183,8 @@ Here are some ideas to get you started:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-12-06T01:13:01Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-12-20T01:14:48Z]-->
+* ![](./icon/zenn.png) [ftpサーバ上のファイルを確認するシェル](https://zenn.dev/antyuntyun/articles/ftp_ls_shell)
 * ![](./icon/zenn.png) [vimのカスタマイズは.vimrcのみで完結させたい](https://zenn.dev/antyuntyun/articles/vim_custmoize)
 * ![](./icon/zenn.png) [CodeCommitの通知をLambdaでTeamsに飛ばしてみた](https://zenn.dev/antyuntyun/articles/codecommit_notification)
 * ![](./icon/zenn.png) [fzfを用いてssh先を簡単指定](https://zenn.dev/antyuntyun/articles/ssh-fzf-function)
