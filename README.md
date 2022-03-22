@@ -183,7 +183,8 @@ Here are some ideas to get you started:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-01-24T01:15:15Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-03-22T01:44:02Z]-->
+* ![](./icon/zenn.png) [今更React入門①](https://zenn.dev/antyuntyun/articles/getting-started-react-1)
 * ![](./icon/zenn.png) [GitHubActions上でのcopilotによるCD環境を整理してみる](https://zenn.dev/antyuntyun/articles/copilot-in-github-actions)
 * ![](./icon/zenn.png) [ftpサーバ上のファイルを確認するシェル](https://zenn.dev/antyuntyun/articles/ftp_ls_shell)
 * ![](./icon/zenn.png) [vimのカスタマイズは.vimrcのみで完結させたい](https://zenn.dev/antyuntyun/articles/vim_custmoize)
@@ -193,7 +194,6 @@ Here are some ideas to get you started:
 * ![](./icon/qiita.png) [fzfを用いてAWS CLIプロファイル簡単切り替え](https://qiita.com/antyuntyuntyun/items/5976ef838ec160f6b027)
 * ![](./icon/zenn.png) [pythonからGoogleDriveAPIを叩く](https://zenn.dev/antyuntyun/articles/python_google_drive)
 * ![](./icon/zenn.png) [LambdaでAWSコストをTeamsに通知](https://zenn.dev/antyuntyun/articles/aws_cost_notification_to_teams_by_lambda)
-* ![](./icon/zenn.png) [WindowsTerminalにGoogleCloudShellを導入](https://zenn.dev/antyuntyun/articles/google-cloud-shell_in_windows-terminal)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## 👽 Wakatime
