@@ -183,17 +183,11 @@ Here are some ideas to get you started:
 
 ## Tech blog :hammer:
 
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-04-04T01:54:38Z]-->
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2022-04-07T01:44:01Z]-->
 * ![](./icon/zenn.png) [aws-cliから特定のsgのインバウンドルールに登録しているIPを変更](https://zenn.dev/antyuntyun/articles/aws-cli-change-ip-of-sg-ingress)
 * ![](./icon/zenn.png) [GASでbitly APIを叩いて短縮URLをまとめて生成](https://zenn.dev/antyuntyun/articles/gas-generate-short-url)
 * ![](./icon/zenn.png) [今更React入門①](https://zenn.dev/antyuntyun/articles/getting-started-react-1)
 * ![](./icon/zenn.png) [GitHubActions上でのcopilotによるCD環境を整理してみる](https://zenn.dev/antyuntyun/articles/copilot-in-github-actions)
-* ![](./icon/zenn.png) [ftpサーバ上のファイルを確認するシェル](https://zenn.dev/antyuntyun/articles/ftp_ls_shell)
-* ![](./icon/zenn.png) [vimのカスタマイズは.vimrcのみで完結させたい](https://zenn.dev/antyuntyun/articles/vim_custmoize)
-* ![](./icon/zenn.png) [CodeCommitの通知をLambdaでTeamsに飛ばしてみた](https://zenn.dev/antyuntyun/articles/codecommit_notification)
-* ![](./icon/zenn.png) [fzfを用いてssh先を簡単指定](https://zenn.dev/antyuntyun/articles/ssh-fzf-function)
-* ![](./icon/zenn.png) [AirflowのDAG処理通知をTeamsに通知してみた](https://zenn.dev/antyuntyun/articles/airflow_custom_notification)
-* ![](./icon/qiita.png) [fzfを用いてAWS CLIプロファイル簡単切り替え](https://qiita.com/antyuntyuntyun/items/5976ef838ec160f6b027)
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## 👽 Wakatime
