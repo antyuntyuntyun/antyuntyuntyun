@@ -4,7 +4,7 @@ on:
   # push:
   #   branches: [ main, master ]
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
       # Do not change the line below until you have forked this repository
       # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
@@ -23,15 +23,15 @@ jobs:
           # Automatic github token
           GITHUB_TOKEN: ${{ github.token }}
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "master"
+          BRANCH: 'master'
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MSG: 'Automated Coding Activity Update :alien:'
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROJECTS: 'False'
+          SHOW_LOC_CHART: 'False'
+          SHOW_PROFILE_VIEWS: 'False'
+          SHOW_LINES_OF_CODE: 'False'
           # LOCALE: "en"
