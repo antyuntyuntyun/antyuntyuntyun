@@ -215,7 +215,7 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -256,13 +256,13 @@ Sunday                   382 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-PowerShell               5 mins              █████████████████████████   100.00 % 
+PowerShell               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -278,5 +278,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2023 01:23:52 UTC
+ Last Updated on 20/06/2023 01:12:34 UTC
 <!--END_SECTION:waka-->
