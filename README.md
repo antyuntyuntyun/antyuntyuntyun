@@ -221,6 +221,8 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 
 > 📦 429.9 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -254,18 +256,13 @@ Sunday                   383 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       ███████████████████░░░░░░   77.32 % 
-Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-INI                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      2 hrs 50 mins       ███████████████████████░░   93.55 % 
-Windows                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -281,5 +278,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2024 01:09:12 UTC
+ Last Updated on 10/08/2024 01:09:01 UTC
 <!--END_SECTION:waka-->
