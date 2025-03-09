@@ -219,7 +219,7 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 
 **🐱 My GitHub Data** 
 
-> 📦 430.1 kB Used in GitHub's Storage 
+> 📦 430.0 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2025
  > 
@@ -278,5 +278,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2025 01:04:44 UTC
+ Last Updated on 09/03/2025 01:09:51 UTC
 <!--END_SECTION:waka-->
