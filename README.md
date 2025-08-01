@@ -215,6 +215,8 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%208%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 430.2 kB Used in GitHub's Storage 
@@ -276,5 +278,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 01:46:46 UTC
+ Last Updated on 01/08/2025 01:56:46 UTC
 <!--END_SECTION:waka-->
