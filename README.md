@@ -221,8 +221,6 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 
 > 📦 430.2 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -278,5 +276,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2025 01:27:20 UTC
+ Last Updated on 08/09/2025 01:25:40 UTC
 <!--END_SECTION:waka-->
