@@ -256,13 +256,13 @@ Sunday                   383 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-PowerShell               5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -278,5 +278,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2025 01:25:41 UTC
+ Last Updated on 07/12/2025 01:46:31 UTC
 <!--END_SECTION:waka-->
