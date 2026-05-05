@@ -38,27 +38,27 @@ Here are some ideas to get you started:
   <!--   こちらに移行 https://github.com/nikaera/zenn-badge-->
   <!-- Like のバッジ -->
   <a href="https://zenn.dev/antyuntyun">
-    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/likes?style=flat" alt="antyuntyun likes" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Fantyuntyun&query=%24.user.total_liked_count&label=likes&logo=zenn&color=3EA8FF&logoColor=white&style=flat" alt="antyuntyun likes" height="20" />
   </a>
 
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/antyuntyun/articles">
-    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/articles?style=flat" alt="antyuntyun articles" height="20" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Fantyuntyun&query=%24.user.articles_count&label=articles&logo=zenn&color=3EA8FF&logoColor=white&style=flat" alt="antyuntyun articles" height="20" />
   </a>
 
   <!-- Followers のバッジ -->
   <a href="https://zenn.dev/antyuntyun/">
-    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/followers?style=flat" alt="antyuntyun followers" height="20"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Fantyuntyun&query=%24.user.follower_count&label=followers&logo=zenn&color=3EA8FF&logoColor=white&style=flat" alt="antyuntyun followers" height="20" />
   </a>
 
   <!-- Books のバッジ -->
   <a href="https://zenn.dev/antyuntyun/books">
-    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/books?style=flat" alt="antyuntyun books" height="20"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Fantyuntyun&query=%24.user.books_count&label=books&logo=zenn&color=3EA8FF&logoColor=white&style=flat" alt="antyuntyun books" height="20" />
   </a>
 
   <!-- Scraps のバッジ -->
   <a href="https://zenn.dev/antyuntyun/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/antyuntyun/scraps?style=flat" alt="antyuntyun scraps" height="20" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Fantyuntyun&query=%24.user.scraps_count&label=scraps&logo=zenn&color=3EA8FF&logoColor=white&style=flat" alt="antyuntyun scraps" height="20" />
   </a>
   <!--  zenn  -->
   
@@ -114,80 +114,23 @@ Here are some ideas to get you started:
 ## :eyes: Language and Tools
 
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,cpp,docker,firebase,flutter,git,html,css,js,vue,postgres,python,r,aws" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-<!--   <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a> -->
-<!--   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> -->
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
-  </a>  
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon web service" width="40" height="40"/>
-  </a>
-  <a href="https://www.ibm.com/jp-ja/products/spss-modeler" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" alt="spss" width="40" height="40"/>
-  </a>
-  <a href="https://www.sas.com/ja_jp/home.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/sas-6.svg" alt="sas" width="40" height="40"/>
-  </a>
-  <a href="https://www.alteryx.com/" target="_blank">
-    <img src="https://iconape.com/wp-content/files/jq/351784/svg/351784.svg" alt="alteryx" width="80" height="40"/>
-  </a>  
-  <a href="https://spark.apache.org/docs/3.1.2/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="40"/>
-  </a>
-  <a href="https://airflow.apache.org/docs/" target="_blank">
-    <img src="https://iconape.com/wp-content/files/dd/370523/svg/370523.svg" alt="airflow" width="80" height="40"/>
-  </a>
-
+</p>
+<p align="left">
+  <a href="https://spark.apache.org/docs/3.1.2/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="40"/></a>
+  <a href="https://airflow.apache.org/docs/" target="_blank"><img src="https://iconape.com/wp-content/files/dd/370523/svg/370523.svg" alt="airflow" width="80" height="40"/></a>
+  <a href="https://www.ibm.com/jp-ja/products/spss-modeler" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" alt="spss" width="40" height="40"/></a>
+  <a href="https://www.sas.com/ja_jp/home.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/sas-6.svg" alt="sas" width="40" height="40"/></a>
+  <a href="https://www.alteryx.com/" target="_blank"><img src="https://iconape.com/wp-content/files/jq/351784/svg/351784.svg" alt="alteryx" width="80" height="40"/></a>
 </p>
 
 ## :octocat: My Github stats
 
-<p align="left"> 
-    <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=antyuntyuntyun&count_private=true&show_icons=true&show_icons=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antyuntyuntyun&layout=compact&count_private=true&show_icons=true&show_icons=true" />
+<p align="left">
+  <img alt="github stats" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antyuntyuntyun&theme=default" />
+  <img alt="Top Langs" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antyuntyuntyun&theme=default" />
 </p>
 
 ## Tech blog :hammer:
