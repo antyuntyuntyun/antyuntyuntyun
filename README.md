@@ -115,16 +115,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,cpp,docker,firebase,flutter,git,html,css,js,vue,postgres,python,r,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,cpp,docker,firebase,flutter,git,html,css,js,vue,nextjs,postgres,python,r,aws,gcp" />
   </a>
 </p>
-<p align="left">
-  <a href="https://spark.apache.org/docs/3.1.2/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="40"/></a>
-  <a href="https://airflow.apache.org/docs/" target="_blank"><img src="https://iconape.com/wp-content/files/dd/370523/svg/370523.svg" alt="airflow" width="80" height="40"/></a>
-  <a href="https://www.ibm.com/jp-ja/products/spss-modeler" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" alt="spss" width="40" height="40"/></a>
-  <a href="https://www.sas.com/ja_jp/home.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/sas-6.svg" alt="sas" width="40" height="40"/></a>
-  <a href="https://www.alteryx.com/" target="_blank"><img src="https://iconape.com/wp-content/files/jq/351784/svg/351784.svg" alt="alteryx" width="80" height="40"/></a>
-</p>
+<p align="left"><a href="https://spark.apache.org/docs/3.1.2/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="40"/></a><a href="https://airflow.apache.org/docs/" target="_blank"><img src="https://iconape.com/wp-content/files/dd/370523/svg/370523.svg" alt="airflow" width="80" height="40"/></a><a href="https://www.ibm.com/jp-ja/products/spss-modeler" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/spss-1.svg" alt="spss" width="40" height="40"/></a><a href="https://www.sas.com/ja_jp/home.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/sas-6.svg" alt="sas" width="40" height="40"/></a><a href="https://www.alteryx.com/" target="_blank"><img src="https://iconape.com/wp-content/files/jq/351784/svg/351784.svg" alt="alteryx" width="80" height="40"/></a><a href="https://www.dataiku.com/" target="_blank"><img src="https://cdn.simpleicons.org/dataiku/2AB1AC" alt="dataiku" width="40" height="40"/></a></p>
 
 ## :octocat: My Github stats
 
