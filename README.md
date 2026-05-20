@@ -152,6 +152,8 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2015%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 309.9 kB Used in GitHub's Storage 
@@ -220,5 +222,5 @@ VBScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 03:33:08 UTC
+ Last Updated on 20/05/2026 03:33:16 UTC
 <!--END_SECTION:waka-->
