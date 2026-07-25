@@ -154,7 +154,7 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 375.9 kB Used in GitHub's Storage 
+> 📦 376.0 kB Used in GitHub's Storage 
  > 
 > 🏆 3,480 Contributions in the Year 2026
  > 
@@ -191,19 +191,19 @@ Sunday                   10986 commits       ████████░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 35 hrs 47 mins      ███████████░░░░░░░░░░░░░░   45.29 % 
-Python                   31 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.75 % 
-Other                    4 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-HTML                     4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Bash                     1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Markdown                 38 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.41 % 
+Python                   32 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
+HTML                     4 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other                    3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Bash                     1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Claude Code              63 hrs 24 mins      ████████████████████░░░░░   80.23 % 
-VS Code                  15 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Claude Code              63 hrs 22 mins      ███████████████████░░░░░░   76.14 % 
+VS Code                  19 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 Vim                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-WSL                      79 hrs 1 min        █████████████████████████   100.00 % 
+WSL                      83 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -219,5 +219,5 @@ VBScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:44:03 UTC
+ Last Updated on 25/07/2026 02:40:33 UTC
 <!--END_SECTION:waka-->
