@@ -152,13 +152,13 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 376.0 kB Used in GitHub's Storage 
+> 📦 376.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3,509 Contributions in the Year 2026
+> 🏆 3,544 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -169,21 +169,21 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9084 commits        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-🌆 Daytime                10535 commits       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌃 Evening                10205 commits       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-🌙 Night                  8585 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+🌞 Morning                7830 commits        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+🌆 Daytime                9329 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌃 Evening                9063 commits        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+🌙 Night                  7546 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   6379 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Tuesday                  4349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Wednesday                2733 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Thursday                 3665 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Friday                   2491 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Saturday                 5693 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Sunday                   13099 commits       █████████░░░░░░░░░░░░░░░░   34.10 % 
+Monday                   5596 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Tuesday                  3824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Wednesday                2458 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Thursday                 3224 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Friday                   2151 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Saturday                 5008 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Sunday                   11507 commits       █████████░░░░░░░░░░░░░░░░   34.08 % 
 ```
 
 
@@ -193,19 +193,19 @@ Sunday                   13099 commits       █████████░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 34 hrs 37 mins      ███████████░░░░░░░░░░░░░░   43.27 % 
-Python                   32 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   40.20 % 
-HTML                     4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Other                    3 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Bash                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   28 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.49 % 
+Markdown                 25 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.80 % 
+Other                    3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+HTML                     3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Bash                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-Claude Code              64 hrs 55 mins      ████████████████████░░░░░   81.14 % 
-VS Code                  14 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Vim                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Claude Code              55 hrs 47 mins      █████████████████████░░░░   83.37 % 
+VS Code                  11 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Vim                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-WSL                      80 hrs              █████████████████████████   100.00 % 
+WSL                      66 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -221,5 +221,5 @@ VBScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 02:48:46 UTC
+ Last Updated on 27/07/2026 02:58:03 UTC
 <!--END_SECTION:waka-->
