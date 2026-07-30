@@ -152,6 +152,10 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-617%20hrs%2018%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 376.5 kB Used in GitHub's Storage 
@@ -191,45 +195,44 @@ Sunday                   11935 commits       █████████░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 18 hrs 55 mins      ████████████░░░░░░░░░░░░░   46.09 % 
-Python                   12 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   31.14 % 
-Other                    2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-YAML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Markdown                 17 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.51 % 
+Python                   10 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+YAML                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+HTML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Other                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-Claude Code              30 hrs 5 mins       ██████████████████░░░░░░░   73.30 % 
-VS Code                  10 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Vim                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              25 hrs 29 mins      ██████████████████░░░░░░░   71.17 % 
+VS Code                  10 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
 
 💻 Operating System: 
-WSL                      41 hrs 2 mins       █████████████████████████   100.00 % 
+WSL                      35 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 42 mins (99.18%)
+⏱ AI Coding Time: 35 hrs 34 mins (99.35%)
 
-✍️ 32,489 lines written by AI, 16 lines written by hand (99.95% AI-written)
+✍️ 34,443 lines written by AI, 16 lines written by hand (99.95% AI-written)
 
-🔤 1,659,808,200 Input Tokens, 4,376,788 Output Tokens
+🔤 1,715,323,697 Input Tokens, 4,186,274 Output Tokens
 
-💵 $7319.12 Estimated AI Cost This Week
+💵 $7607.38 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 503 AI Prompts
+🧠 65 AI Sessions, 409 AI Prompts
 
-Opus                     21,313 lines        ████████████████░░░░░░░░░   63.62 % 
-Fable                    12,190 lines        █████████░░░░░░░░░░░░░░░░   36.38 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     23,364 lines        ████████████████░░░░░░░░░   65.71 % 
+Fable                    12,190 lines        █████████░░░░░░░░░░░░░░░░   34.29 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 6,040 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+📚 Verbose Prompter — average 7,072 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -245,5 +248,5 @@ VBScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:40:50 UTC
+ Last Updated on 30/07/2026 02:28:22 UTC
 <!--END_SECTION:waka-->
