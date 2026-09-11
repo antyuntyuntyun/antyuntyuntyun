@@ -152,15 +152,15 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-950%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-957%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 388.5 kB Used in GitHub's Storage 
+> 📦 388.8 kB Used in GitHub's Storage 
  > 
-> 🏆 4,701 Contributions in the Year 2026
+> 🏆 4,717 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -171,21 +171,21 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14856 commits       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-🌆 Daytime                16633 commits       ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-🌃 Evening                15380 commits       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌙 Night                  12427 commits       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+🌞 Morning                15335 commits       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+🌆 Daytime                17114 commits       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+🌃 Evening                15802 commits       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌙 Night                  12743 commits       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   9754 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Tuesday                  6500 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Wednesday                4033 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Thursday                 5929 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Friday                   4258 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Saturday                 8651 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Sunday                   20171 commits       █████████░░░░░░░░░░░░░░░░   34.02 % 
+Monday                   10019 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Tuesday                  6681 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Wednesday                4142 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Thursday                 6122 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Friday                   4424 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Saturday                 8895 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Sunday                   20711 commits       ████████░░░░░░░░░░░░░░░░░   33.96 % 
 ```
 
 
@@ -195,43 +195,43 @@ Sunday                   20171 commits       █████████░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 28 hrs 20 mins      ████████████░░░░░░░░░░░░░   47.35 % 
-Other                    19 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.67 % 
-Python                   5 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-HTML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Text                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 30 hrs 34 mins      █████████████░░░░░░░░░░░░   50.06 % 
+Other                    21 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.12 % 
+Python                   3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+HTML                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Text                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-Claude Code              57 hrs 52 mins      ████████████████████████░   96.70 % 
-VS Code                  1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Claude Code              59 hrs 18 mins      ████████████████████████░   97.11 % 
+VS Code                  1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 💻 Operating System: 
-WSL                      56 hrs 1 min        ███████████████████████░░   93.61 % 
-Mac                      3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+WSL                      57 hrs 15 mins      ███████████████████████░░   93.74 % 
+Mac                      3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 49 mins (99.96%)
+⏱ AI Coding Time: 60 hrs 59 mins (99.87%)
 
-✍️ 26,352 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 20,430 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 80,172,079 Input Tokens, 8,136,136 Output Tokens
+🔤 63,122,413 Input Tokens, 8,071,692 Output Tokens
 
-💵 $2202.00 Estimated AI Cost This Week
+💵 $1958.41 Estimated AI Cost This Week
 
-🧠 246 AI Sessions, 666 AI Prompts
+🧠 251 AI Sessions, 682 AI Prompts
 
-Opus                     14,803 lines        ██████████████░░░░░░░░░░░   55.25 % 
-Fable                    10,542 lines        ██████████░░░░░░░░░░░░░░░   39.35 % 
-Sonnet                   1,448 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Fable                    11,602 lines        ██████████████░░░░░░░░░░░   55.62 % 
+Opus                     7,810 lines         █████████░░░░░░░░░░░░░░░░   37.44 % 
+Sonnet                   1,448 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,073 characters per prompt
+📚 Verbose Prompter — average 1,969 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -249,5 +249,5 @@ VBScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 00:40:48 UTC
+ Last Updated on 11/09/2026 00:44:33 UTC
 <!--END_SECTION:waka-->
