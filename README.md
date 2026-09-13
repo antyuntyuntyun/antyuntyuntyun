@@ -152,9 +152,9 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C097%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-969%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-970%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -195,33 +195,33 @@ Sunday                   23951 commits       ████████░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 24 hrs 7 mins       ████████████░░░░░░░░░░░░░   46.85 % 
-Other                    20 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   39.61 % 
-Python                   3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Bash                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Text                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown                 24 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.97 % 
+Other                    19 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.15 % 
+Python                   3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Bash                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Text                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Claude Code              50 hrs 10 mins      ████████████████████████░   97.45 % 
-VS Code                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Claude Code              49 hrs              ████████████████████████░   97.58 % 
+VS Code                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-WSL                      47 hrs 40 mins      ███████████████████████░░   92.58 % 
-Mac                      3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+WSL                      46 hrs 24 mins      ███████████████████████░░   92.39 % 
+Mac                      3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 26 mins (99.9%)
+⏱ AI Coding Time: 50 hrs 10 mins (99.9%)
 
 ✍️ 16,224 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 49,949,873 Input Tokens, 6,360,904 Output Tokens
+🔤 46,107,505 Input Tokens, 6,153,191 Output Tokens
 
-💵 $1664.08 Estimated AI Cost This Week
+💵 $1583.63 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 464 AI Prompts
+🧠 96 AI Sessions, 445 AI Prompts
 
 Fable                    7,967 lines         ████████████░░░░░░░░░░░░░   47.97 % 
 Opus                     7,193 lines         ███████████░░░░░░░░░░░░░░   43.31 % 
@@ -230,8 +230,8 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,262 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 2,287 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -248,5 +248,5 @@ VBScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 00:45:02 UTC
+ Last Updated on 13/09/2026 00:48:31 UTC
 <!--END_SECTION:waka-->
