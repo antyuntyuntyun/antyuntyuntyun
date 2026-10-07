@@ -152,15 +152,15 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C283%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C295%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C173%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C186%20hrs%209%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 404.2 kB Used in GitHub's Storage 
+> 📦 404.8 kB Used in GitHub's Storage 
  > 
-> 🏆 6,620 Contributions in the Year 2026
+> 🏆 6,665 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -171,21 +171,21 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                28522 commits       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌆 Daytime                30790 commits       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-🌃 Evening                28128 commits       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-🌙 Night                  21363 commits       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+🌞 Morning                32939 commits       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌆 Daytime                34713 commits       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+🌃 Evening                31840 commits       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+🌙 Night                  23643 commits       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   18566 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Tuesday                  11404 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Wednesday                8111 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Thursday                 12046 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Friday                   9686 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Saturday                 15189 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Sunday                   33801 commits       ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Monday                   20738 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  12816 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Wednesday                9083 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Thursday                 13508 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Friday                   12162 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Saturday                 17699 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Sunday                   37129 commits       ████████░░░░░░░░░░░░░░░░░   30.15 % 
 ```
 
 
@@ -195,46 +195,46 @@ Sunday                   33801 commits       ████████░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 41 hrs 53 mins      █████████████░░░░░░░░░░░░   51.72 % 
-Python                   21 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Other                    6 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Text                     4 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Bash                     1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Markdown                 46 hrs 51 mins      ██████████████░░░░░░░░░░░   55.11 % 
+Python                   20 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Text                     5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Other                    5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Bash                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-Claude Code              78 hrs 6 mins       ████████████████████████░   96.45 % 
-VS Code                  2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              81 hrs 49 mins      ████████████████████████░   96.23 % 
+VS Code                  3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-WSL                      80 hrs 57 mins      █████████████████████████   99.98 % 
+WSL                      85 hrs              █████████████████████████   99.98 % 
 Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 80 hrs 57 mins (99.96%)
+⏱ AI Coding Time: 84 hrs 59 mins (99.97%)
 
-✍️ 102,351 lines written by AI, 154 lines written by hand (99.85% AI-written)
+✍️ 123,104 lines written by AI, 154 lines written by hand (99.88% AI-written)
 
-🔤 178,617,420 Input Tokens, 28,213,435 Output Tokens
+🔤 214,867,025 Input Tokens, 33,230,944 Output Tokens
 
-💵 $3882.69 Estimated AI Cost This Week
+💵 $4551.10 Estimated AI Cost This Week
 
-🧠 268 AI Sessions, 1063 AI Prompts
+🧠 405 AI Sessions, 1248 AI Prompts
 
-Opus                     92,277 lines        ██████████████████████░░░   89.35 % 
-Fable                    10,759 lines        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Sonnet                   242 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Opus                     113,425 lines       ███████████████████████░░   91.22 % 
+Fable                    10,759 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Sonnet                   165 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 10,205 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 12,928 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -250,5 +250,5 @@ VBScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:56:49 UTC
+ Last Updated on 07/10/2026 00:58:06 UTC
 <!--END_SECTION:waka-->
