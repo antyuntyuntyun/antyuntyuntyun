@@ -152,15 +152,15 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C295%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C186%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C200%20hrs%209%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 404.8 kB Used in GitHub's Storage 
+> 📦 406.4 kB Used in GitHub's Storage 
  > 
-> 🏆 6,665 Contributions in the Year 2026
+> 🏆 6,749 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -171,21 +171,21 @@ Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                32939 commits       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌆 Daytime                34713 commits       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-🌃 Evening                31840 commits       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-🌙 Night                  23643 commits       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌞 Morning                34627 commits       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+🌆 Daytime                36267 commits       ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+🌃 Evening                33389 commits       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌙 Night                  24593 commits       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   20738 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Tuesday                  12816 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Wednesday                9083 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Thursday                 13508 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Friday                   12162 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Saturday                 17699 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Sunday                   37129 commits       ████████░░░░░░░░░░░░░░░░░   30.15 % 
+Monday                   21578 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Tuesday                  13318 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Wednesday                9723 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Thursday                 14141 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Friday                   13066 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Saturday                 18635 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Sunday                   38415 commits       ███████░░░░░░░░░░░░░░░░░░   29.81 % 
 ```
 
 
@@ -195,46 +195,46 @@ Sunday                   37129 commits       ████████░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 46 hrs 51 mins      ██████████████░░░░░░░░░░░   55.11 % 
-Python                   20 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Text                     5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Other                    5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Bash                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Markdown                 52 hrs 11 mins      ██████████████░░░░░░░░░░░   56.82 % 
+Python                   21 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Text                     6 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Other                    6 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Bash                     1 hr 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Claude Code              81 hrs 49 mins      ████████████████████████░   96.23 % 
-VS Code                  3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Claude Code              87 hrs 47 mins      ████████████████████████░   95.58 % 
+VS Code                  4 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-WSL                      85 hrs              █████████████████████████   99.98 % 
+WSL                      91 hrs 50 mins      █████████████████████████   99.98 % 
 Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 84 hrs 59 mins (99.97%)
+⏱ AI Coding Time: 91 hrs 49 mins (99.97%)
 
-✍️ 123,104 lines written by AI, 154 lines written by hand (99.88% AI-written)
+✍️ 145,922 lines written by AI, 154 lines written by hand (99.89% AI-written)
 
-🔤 214,867,025 Input Tokens, 33,230,944 Output Tokens
+🔤 340,258,384 Input Tokens, 41,628,293 Output Tokens
 
-💵 $4551.10 Estimated AI Cost This Week
+💵 $5953.39 Estimated AI Cost This Week
 
-🧠 405 AI Sessions, 1248 AI Prompts
+🧠 604 AI Sessions, 1650 AI Prompts
 
-Opus                     113,425 lines       ███████████████████████░░   91.22 % 
-Fable                    10,759 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Sonnet                   165 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Opus                     136,673 lines       ███████████████████████░░   92.70 % 
+Fable                    10,759 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 12,928 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 17,399 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -250,5 +250,5 @@ VBScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 00:58:06 UTC
+ Last Updated on 08/10/2026 01:00:32 UTC
 <!--END_SECTION:waka-->
